@@ -2,7 +2,7 @@
 - 👀 I’m interested in Chitkara University , Punjab
 - 🌱 I’m currently learning Front End Web Development
 - 💞️ I’m looking to collaborate on Linkedin- www.linkedin.com/in/revtiraman-vasishth-a70110209
-- 📫 How to reach me ...
+- 📫 How to reach me on linkedin - www.linkedin.com/in/revtiraman-vasishth-a70110209
 
 <!---
 Rnitros/Rnitros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
